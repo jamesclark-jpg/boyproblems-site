@@ -6,15 +6,15 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://boyproblems.band/img/8B591361-3FC4-4F35-89E8-3BB4C3C635D2.jpg</image:loc>
-	<image:title>8B591361 3FC4-4F35-89E8-3BB4C3C635D2</image:title>
+	<image:loc>https://boyproblems.band/img/boy-problems-melbourne.jpg</image:loc>
+	<image:title>Boy Problems, the band</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://boyproblems.band/img/</image:loc>
+	<image:loc>https://boyproblems.band/img/boy-problems-melbourne.jpg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://boyproblems.band/img/</image:loc>
+	<image:loc>https://boyproblems.band/img/boy-problems-melbourne.jpg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>

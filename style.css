@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 	Boy Problems
-	About: A shiny new Blocs website.
+	About: Based in Melbourne, Boy Problems is making disco-pop that celebrates friends, partying, and being a bit too much. We all have problems, but don’t let that stop the party.
 	Author: James Clark
 	Version: 1.0
 	Built with Blocs
@@ -176,6 +176,8 @@ button{
 }
 
 
+/* = Cards
+-------------------------------------------------------------- */
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
 	border-radius:0;
 }
@@ -245,6 +247,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:100%;
 	height:50px;
 	margin-bottom:20px;
+}
+.link-style{
+	text-decoration:underline;
 }
 
 /* = Colour
