@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://boyproblems.band</loc>
-	<lastmod>2022-12-05</lastmod>
+	<lastmod>2023-04-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -15,6 +15,28 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://boyproblems.band/img/Boy%20Problems%20Banner.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://boyproblems.band/demo.html</loc>
+	<lastmod>2023-04-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://boyproblems.band/img/F709844D-8765-4026-BAA9-B4D0793EE4DF.JPG</image:loc>
+	<image:title>F709844D 8765-4026-BAA9-B4D0793EE4DF.JPG</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://boyproblems.band/vid/IMG_9183.MP4</video:content_loc>
+	<video:title>IMG_9183.MP4</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>https://boyproblems.band/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://boyproblems.band/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
