@@ -244,6 +244,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:20px;
 	font-family:"Vollkorn";
 }
+.p-style{
+	font-family:"Vollkorn";
+}
+.link-bloc-0-style{
+	text-decoration:underline;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
