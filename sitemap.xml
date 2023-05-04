@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://boyproblems.band</loc>
-	<lastmod>2023-04-27</lastmod>
+	<lastmod>2023-05-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://boyproblems.band/img/boy-problems-melbourne.jpg</image:loc>
+	<image:loc>https://boyproblems.band/img/boy-problems-pool.jpg</image:loc>
 	<image:title>Boy Problems, the band</image:title>
 	</image:image>
 	<image:image>
@@ -20,7 +20,7 @@
 </url>
 <url>
 	<loc>https://boyproblems.band/demo.html</loc>
-	<lastmod>2023-04-27</lastmod>
+	<lastmod>2023-05-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -42,9 +42,13 @@
 </url>
 <url>
 	<loc>https://boyproblems.band/epk.html</loc>
-	<lastmod>2023-04-27</lastmod>
+	<lastmod>2023-05-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://boyproblems.band/img/boy-problems-pool.jpg</image:loc>
+	<image:title>boy problems-pool</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://boyproblems.band/img/boy-problems-melb.jpg</image:loc>
 	<image:title>boy problems-melb</image:title>
@@ -56,10 +60,6 @@
 	<image:image>
 	<image:loc>https://boyproblems.band/img/F709844D-8765-4026-BAA9-B4D0793EE4DF.JPG</image:loc>
 	<image:title>F709844D 8765-4026-BAA9-B4D0793EE4DF.JPG</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://boyproblems.band/img/324354129_613644207189043_1029626734198266585_n%202.jpg</image:loc>
-	<image:title>324354129_613644207189043_1029626734198266585_n 2</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://boyproblems.band/img/</image:loc>
