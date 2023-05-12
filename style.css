@@ -155,6 +155,11 @@ button{
 }
 
 
+/* = Icons
+-------------------------------------------------------------- */
+.icon-lg{
+	font-size:60px!important;
+}
 
 
 /* = Text & Icon Styles
@@ -277,6 +282,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .link-bloc-3-style{
 	text-decoration:underline;
 	font-family:"Arvo";
+}
+.p-bloc-0-style{
+	font-family:"Vollkorn";
+}
+.p-2-style{
+	font-family:"Vollkorn";
+}
+.bottom-margin{
+	margin-bottom:10px;
+}
+.p-1-style{
+	font-family:"Vollkorn";
 }
 
 /* = Colour
