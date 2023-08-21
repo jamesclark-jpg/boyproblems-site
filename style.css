@@ -292,6 +292,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-1-style{
 	font-family:"Vollkorn";
 }
+.underline{
+	text-decoration:underline!important;
+	font-weight:bold;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
