@@ -157,8 +157,8 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
-.icon-lg{
-	font-size:60px!important;
+.icon-md{
+	font-size:30px!important;
 }
 
 
@@ -280,21 +280,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	text-decoration:underline;
 	font-family:"Arvo";
 }
-.p-bloc-0-style{
-	font-family:"Vollkorn";
-}
-.p-2-style{
-	font-family:"Vollkorn";
-}
 .bottom-margin{
 	margin-bottom:10px;
-}
-.p-1-style{
-	font-family:"Vollkorn";
 }
 .underline{
 	text-decoration:underline!important;
 	font-weight:bold;
+}
+.p-bloc-0-style{
+	font-size:20px;
+}
+.p-2-bloc-0-style{
+	font-size:20px;
 }
 
 /* = Colour
