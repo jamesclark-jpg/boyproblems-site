@@ -61,6 +61,57 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Dark theme */
+
+.d-bloc{
+	color:rgba(255,255,255,.7);
+}
+.d-bloc button:hover{
+	color:rgba(255,255,255,.9);
+}
+.d-bloc .icon-round,.d-bloc .icon-square,.d-bloc .icon-rounded,.d-bloc .icon-semi-rounded-a,.d-bloc .icon-semi-rounded-b{
+	border-color:rgba(255,255,255,.9);
+}
+.d-bloc .divider-h span{
+	border-color:rgba(255,255,255,.2);
+}
+.d-bloc .a-btn,.d-bloc .navbar a, .d-bloc a .icon-sm, .d-bloc a .icon-md, .d-bloc a .icon-lg, .d-bloc a .icon-xl, .d-bloc h1 a, .d-bloc h2 a, .d-bloc h3 a, .d-bloc h4 a, .d-bloc h5 a, .d-bloc h6 a, .d-bloc p a{
+	color:rgba(255,255,255,.6);
+}
+.d-bloc .a-btn:hover,.d-bloc .navbar a:hover,.d-bloc a:hover .icon-sm, .d-bloc a:hover .icon-md, .d-bloc a:hover .icon-lg, .d-bloc a:hover .icon-xl, .d-bloc h1 a:hover, .d-bloc h2 a:hover, .d-bloc h3 a:hover, .d-bloc h4 a:hover, .d-bloc h5 a:hover, .d-bloc h6 a:hover, .d-bloc p a:hover{
+	color:rgba(255,255,255,1);
+}
+.d-bloc .navbar-toggle .icon-bar{
+	background:rgba(255,255,255,1);
+}
+.d-bloc .btn-wire,.d-bloc .btn-wire:hover{
+	color:rgba(255,255,255,1);
+	border-color:rgba(255,255,255,1);
+}
+.d-bloc .card{
+	color:rgba(0,0,0,.5);
+}
+.d-bloc .card button:hover{
+	color:rgba(0,0,0,.7);
+}
+.d-bloc .card icon{
+	border-color:rgba(0,0,0,.7);
+}
+.d-bloc .card .divider-h span{
+	border-color:rgba(0,0,0,.1);
+}
+.d-bloc .card .a-btn{
+	color:rgba(0,0,0,.6);
+}
+.d-bloc .card .a-btn:hover{
+	color:rgba(0,0,0,1);
+}
+.d-bloc .card .btn-wire, .d-bloc .card .btn-wire:hover{
+	color:rgba(0,0,0,.7);
+	border-color:rgba(0,0,0,.3);
+}
+
+
 /* Light theme */
 
 .d-bloc .card,.l-bloc{
@@ -184,6 +235,19 @@ button{
 	border-radius:0 0 29px 29px;
 }
 
+/* = Classic Dividers
+-------------------------------------------------------------- */
+.divider-h{
+	min-height: 1px;
+	background-color:rgba(0,0,0,.2);
+	margin: 20px 0;
+}
+.divider-half{
+	width: 50%;
+}
+.dropdown-menu .divider-h{
+	margin:0;
+}
 
 
 /* Additional Aspect Ratios */
@@ -293,6 +357,23 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-2-bloc-0-style{
 	font-size:20px;
 }
+.p-9-style{
+	font-family:"Arvo";
+}
+.p-10-style{
+	font-family:"Arvo";
+}
+.divider-background-color{
+	background-color:#EF2C91;
+	height:2px;
+}
+.p-11-style{
+	font-family:"Arvo";
+}
+.black-text{
+	color:#000000!important;
+	font-family:"Arvo";
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -301,6 +382,20 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 .bgc-black{
 	background-color:#000000;
+}
+.bgc-black-2{
+	background-color:#000000;
+}
+
+/* Button colour styles */
+
+.btn-cerise-pink{
+	background:#EF2C91;
+	color:#FFFFFF!important;
+}
+.btn-cerise-pink:hover{
+	background:#bf2374!important;
+	color:#FFFFFF!important;
 }
 
 /* Icon colour styles */
